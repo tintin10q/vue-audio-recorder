@@ -1,3 +1,5 @@
+**Not vue 3 yet**
+
 # vue-audio-recorder
 
 > Audio recorder for Vue.js. It allows to create, play, download and store records on a server.
